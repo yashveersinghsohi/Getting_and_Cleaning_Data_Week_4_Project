@@ -1,9 +1,9 @@
 # Getting-and-Cleaning-Data-Week-4-Assignment
 
 This repo was created to finish the assignment for week 4 of Getting and Cleaning Data Coursera course.
-* First, download and unzip the data file into your R working directory.
-* Second, download the R source code into your R working directory.
-* Finally, execute R source code to generate tidy data file.
+* First, download the dataset from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) or download the folder **UCI HAR Dataset** in this repository into your R working directory.
+* Second, download the R source code (**run_analysis.R**) into your R working directory.
+* Finally, execute R source code to generate tidy data file. (**tidydata.txt** stored in the folder **UCI HAR Dataset**)
 
 ### Data description
 The variables in the data X are sensor signals measured with waist-mounted smartphone from 30 subjects. The variable in the data Y indicates activity type the subjects performed during recording.
